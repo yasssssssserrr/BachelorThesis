@@ -1,3 +1,9 @@
+# Warning: The Implementation is in the Organization's Branch !
+>
+Please Note: The current implementation is not in my personal profile. You'll find it in the following organization branch: https://github.com/MARS-Group-HAW/model-soh/tree/CasablancaBox
+
+
+
 # CasablancaBox 🚍
 
 Casablanca citizens simulation that runs the SOH model in four modes:
